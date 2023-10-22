@@ -1,0 +1,12 @@
+{
+  "name": "pet-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "sass --watch main.scss css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
